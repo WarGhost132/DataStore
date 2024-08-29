@@ -8,7 +8,6 @@
 
   <ItemGroup>
     <Folder Include="Components\Import\" />
-    <Folder Include="Components\Export\" />
   </ItemGroup>
 
   <ItemGroup>
