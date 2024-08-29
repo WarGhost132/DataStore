@@ -6,4 +6,14 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Components\Import\" />
+    <Folder Include="Components\Export\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\BuildingBlocks\DataStore.Common\DataStore.Common.csproj" />
+    <ProjectReference Include="..\..\SharedModule\SharedModule.Models\SharedModule.Models.csproj" />
+  </ItemGroup>
+
 </Project>
