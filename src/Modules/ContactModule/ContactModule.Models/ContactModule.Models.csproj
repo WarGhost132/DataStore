@@ -6,4 +6,13 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Components.Web" Version="8.0.8" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\BuildingBlocks\DataStore.Common\DataStore.Common.csproj" />
+    <ProjectReference Include="..\..\SharedModule\SharedModule.Models\SharedModule.Models.csproj" />
+  </ItemGroup>
+
 </Project>
