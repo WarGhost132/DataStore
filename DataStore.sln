@@ -11,23 +11,23 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BuildingBlocks", "BuildingB
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Modules", "Modules", "{DC2D1937-72E7-4DD1-95C7-0DF2BC43E2F7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStore.App", "src\App\DataStore.App\DataStore.App.csproj", "{65853BF0-7477-46ED-8CBE-C5E5AB361B6A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataStore.App", "src\App\DataStore.App\DataStore.App.csproj", "{65853BF0-7477-46ED-8CBE-C5E5AB361B6A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStore.App.UI", "src\App\DataStore.App.UI\DataStore.App.UI.csproj", "{8229D962-500A-4B50-8A4B-35EFDCCDE4B9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataStore.App.UI", "src\App\DataStore.App.UI\DataStore.App.UI.csproj", "{8229D962-500A-4B50-8A4B-35EFDCCDE4B9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStore.Common", "src\BuildingBlocks\DataStore.Common\DataStore.Common.csproj", "{9CFC1F17-C8E5-403B-9567-7A8F2CF018A3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataStore.Common", "src\BuildingBlocks\DataStore.Common\DataStore.Common.csproj", "{9CFC1F17-C8E5-403B-9567-7A8F2CF018A3}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ContactModule", "ContactModule", "{A83EFD12-4D90-4B1D-94B5-A5A4305A0D5F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContactModule.Models", "src\Modules\ContactModule\ContactModule.Models\ContactModule.Models.csproj", "{0EB7027C-A8A5-482E-9F6F-5B1512DDD630}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ContactModule.Models", "src\Modules\ContactModule\ContactModule.Models\ContactModule.Models.csproj", "{0EB7027C-A8A5-482E-9F6F-5B1512DDD630}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContactModule.Services", "src\Modules\ContactModule\ContactModule.Services\ContactModule.Services.csproj", "{A63DD10E-7FC7-433C-A238-2BB8013A351C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ContactModule.Services", "src\Modules\ContactModule\ContactModule.Services\ContactModule.Services.csproj", "{A63DD10E-7FC7-433C-A238-2BB8013A351C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContactModule.WebApp", "src\Modules\ContactModule\ContactModule.WebApp\ContactModule.WebApp.csproj", "{99510CF8-5E10-4DA6-BFED-5C1CE0E65833}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ContactModule.WebApp", "src\Modules\ContactModule\ContactModule.WebApp\ContactModule.WebApp.csproj", "{99510CF8-5E10-4DA6-BFED-5C1CE0E65833}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SharedModule", "SharedModule", "{E674B19E-C7F9-42D6-B565-CD04ABE4A1AA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharedModule.Models", "src\Modules\SharedModule\SharedModule.Models\SharedModule.Models.csproj", "{A3C5CFD6-BED8-42E9-ADD0-4B57DA4F606E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SharedModule.Models", "src\Modules\SharedModule\SharedModule.Models\SharedModule.Models.csproj", "{A3C5CFD6-BED8-42E9-ADD0-4B57DA4F606E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
