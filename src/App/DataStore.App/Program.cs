@@ -1,6 +1,7 @@
 WebApplicationBuilder builder = WebApplication.CreateBuilder(args);
 
 builder.RegisterClientLibraries();
+builder.RegisterCommonServices();
 
 WebApplication app = builder.Build();
 
